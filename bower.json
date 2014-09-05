@@ -1,0 +1,25 @@
+{
+  "name": "hideItems",
+  "version": "1.0.1",
+  "homepage": "https://github.com/reinos/jquery.hideItems",
+  "authors": [
+    "Reinos <info@reinos.nl>"
+  ],
+  "description": "Hide a specific number of items",
+  "main": [
+    "dist/jquery.hideItems.js"
+  ],
+  "keywords": [
+    "hideItems",
+    "jquery.hideItems",
+    "reinos"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
